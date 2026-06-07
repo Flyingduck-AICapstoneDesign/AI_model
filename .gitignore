@@ -10,3 +10,6 @@ data/
 # 3. 모델 가중치 
 baseline_outputs/
 final_law_lora/
+
+# 4. 파이참 설정 파일 차단
+.idea/
