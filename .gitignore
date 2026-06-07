@@ -1,0 +1,12 @@
+# 1. 가상환경 및 파이썬 캐시
+law_env/
+__pycache__/
+
+# 2. 데이터셋 원본 및 병합 파일
+data/
+*.json
+*.jsonl
+
+# 3. 모델 가중치 
+baseline_outputs/
+final_law_lora/
